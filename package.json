@@ -1,0 +1,18 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Browser Js                Node.js                    Express ======                   ======                     ======= - DOM                   - No Dom - Window                - NO Window - Interactive Apps      - Server Side Apps  - No Filesystem         - Filesystem include  - Fragmentation         - Versions  - Es6 Modules           - CommonJs",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "pdf": "^0.1.0"
+  }
+}
